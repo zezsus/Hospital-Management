@@ -1,0 +1,101 @@
+.doctor {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .header {
+    width: 100%;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+
+    .btn-back {
+      border: none;
+      outline: none;
+      color: white;
+      background-color: black;
+      margin-left: 15px;
+
+      &:active {
+        color: black;
+      }
+    }
+    .text {
+      height: 100px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      background-color: black;
+      font-size: 30px;
+      font-weight: 600;
+      color: white;
+    }
+  }
+
+  .container {
+    padding-top: 20px;
+
+    .inputData {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      margin-bottom: 20px;
+
+      .id,
+      .name,
+      .password,
+      .exp {
+        width: 100%;
+        display: flex;
+        margin-bottom: 10px;
+        align-items: center;
+        justify-content: center;
+
+        span {
+          width: 100px;
+          font-size: 18px;
+          font-weight: 500;
+        }
+
+        input {
+          width: 50%;
+          outline: none;
+          border: none;
+          border-bottom: 1px solid gray;
+        }
+      }
+    }
+
+    .button {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+
+      button {
+        margin: 10px;
+        width: 80px;
+        outline: none;
+        border: none;
+        background-color: rgb(228, 228, 228);
+        border-radius: 10px;
+        font-size: 18px;
+        font-weight: 500;
+        padding: 5px 10px 5px 10px;
+
+        &:active {
+          background-color: white;
+        }
+      }
+    }
+
+    .listDoctor {
+      .selected {
+        background-color: rgb(255, 223, 126);
+      }
+    }
+  }
+}
