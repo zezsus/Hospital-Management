@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Hospital-Manager/static/css/main.e84baa3e.css",
-    "main.js": "/Hospital-Manager/static/js/main.3ac245e0.js",
-    "static/js/787.46e2041f.chunk.js": "/Hospital-Manager/static/js/787.46e2041f.chunk.js",
-    "static/media/homeBackground.webp": "/Hospital-Manager/static/media/homeBackground.2e791c9cefdc682d4892.webp",
-    "static/media/loginBacground.jpg": "/Hospital-Manager/static/media/loginBacground.9c6de19e9dbf81fc1e43.jpg",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Hospital-Manager/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/Hospital-Manager/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Hospital-Manager/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Hospital-Manager/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Hospital-Manager/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/Hospital-Manager/index.html",
-    "main.e84baa3e.css.map": "/Hospital-Manager/static/css/main.e84baa3e.css.map",
-    "main.3ac245e0.js.map": "/Hospital-Manager/static/js/main.3ac245e0.js.map",
-    "787.46e2041f.chunk.js.map": "/Hospital-Manager/static/js/787.46e2041f.chunk.js.map"
+    "main.css": "/Hospital-Management/static/css/main.b12cafe8.css",
+    "main.js": "/Hospital-Management/static/js/main.5a15680f.js",
+    "static/js/787.46e2041f.chunk.js": "/Hospital-Management/static/js/787.46e2041f.chunk.js",
+    "static/media/homeBackground.webp": "/Hospital-Management/static/media/homeBackground.2e791c9cefdc682d4892.webp",
+    "static/media/loginBacground.jpg": "/Hospital-Management/static/media/loginBacground.9c6de19e9dbf81fc1e43.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Hospital-Management/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Hospital-Management/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Hospital-Management/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Hospital-Management/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Hospital-Management/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/Hospital-Management/index.html",
+    "main.b12cafe8.css.map": "/Hospital-Management/static/css/main.b12cafe8.css.map",
+    "main.5a15680f.js.map": "/Hospital-Management/static/js/main.5a15680f.js.map",
+    "787.46e2041f.chunk.js.map": "/Hospital-Management/static/js/787.46e2041f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e84baa3e.css",
-    "static/js/main.3ac245e0.js"
+    "static/css/main.b12cafe8.css",
+    "static/js/main.5a15680f.js"
   ]
 }
